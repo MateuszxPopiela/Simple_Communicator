@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2041
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleComunicator", "SimpleComunicator\SimpleComunicator.csproj", "{375510CA-553B-42A9-BEF4-FA5E10B85F18}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{375510CA-553B-42A9-BEF4-FA5E10B85F18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{375510CA-553B-42A9-BEF4-FA5E10B85F18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{375510CA-553B-42A9-BEF4-FA5E10B85F18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{375510CA-553B-42A9-BEF4-FA5E10B85F18}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0F1D3118-376A-47EA-8409-8258CE647B56}
+	EndGlobalSection
+EndGlobal

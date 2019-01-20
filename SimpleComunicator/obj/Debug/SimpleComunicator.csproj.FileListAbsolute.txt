@@ -1,0 +1,15 @@
+D:\Studia\Semestr III\Lab C#\Simple_Communicator\SimpleComunicator\SimpleComunicator\bin\Debug\SimpleComunicator.exe.config
+D:\Studia\Semestr III\Lab C#\Simple_Communicator\SimpleComunicator\SimpleComunicator\bin\Debug\SimpleComunicator.exe
+D:\Studia\Semestr III\Lab C#\Simple_Communicator\SimpleComunicator\SimpleComunicator\bin\Debug\SimpleComunicator.pdb
+D:\Studia\Semestr III\Lab C#\Simple_Communicator\SimpleComunicator\SimpleComunicator\obj\Debug\SimpleComunicator.csprojAssemblyReference.cache
+D:\Studia\Semestr III\Lab C#\Simple_Communicator\SimpleComunicator\SimpleComunicator\obj\Debug\MainWindow.g.cs
+D:\Studia\Semestr III\Lab C#\Simple_Communicator\SimpleComunicator\SimpleComunicator\obj\Debug\App.g.cs
+D:\Studia\Semestr III\Lab C#\Simple_Communicator\SimpleComunicator\SimpleComunicator\obj\Debug\SimpleComunicator_MarkupCompile.cache
+D:\Studia\Semestr III\Lab C#\Simple_Communicator\SimpleComunicator\SimpleComunicator\obj\Debug\SimpleComunicator_MarkupCompile.lref
+D:\Studia\Semestr III\Lab C#\Simple_Communicator\SimpleComunicator\SimpleComunicator\obj\Debug\MainWindow.baml
+D:\Studia\Semestr III\Lab C#\Simple_Communicator\SimpleComunicator\SimpleComunicator\obj\Debug\SimpleComunicator.g.resources
+D:\Studia\Semestr III\Lab C#\Simple_Communicator\SimpleComunicator\SimpleComunicator\obj\Debug\SimpleComunicator.Properties.Resources.resources
+D:\Studia\Semestr III\Lab C#\Simple_Communicator\SimpleComunicator\SimpleComunicator\obj\Debug\SimpleComunicator.csproj.GenerateResource.cache
+D:\Studia\Semestr III\Lab C#\Simple_Communicator\SimpleComunicator\SimpleComunicator\obj\Debug\SimpleComunicator.csproj.CoreCompileInputs.cache
+D:\Studia\Semestr III\Lab C#\Simple_Communicator\SimpleComunicator\SimpleComunicator\obj\Debug\SimpleComunicator.exe
+D:\Studia\Semestr III\Lab C#\Simple_Communicator\SimpleComunicator\SimpleComunicator\obj\Debug\SimpleComunicator.pdb
